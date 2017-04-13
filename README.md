@@ -67,9 +67,9 @@ If a community member engages in unacceptable behavior, the community organizers
 
 This code of conduct in adapted from and inspired by
 
-[The Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
-[Major League Hacking Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
-[HackSmiths Code of Conduct](https://github.com/hacksmiths/code-of-conduct)
-[Contributor Covenant v1.4](http://contributor-covenant.org/version/1/4/)
-[Hack Code of Conduct](https://hackcodeofconduct.org/)
-[Citizen Code of Conduct](http://citizencodeofconduct.org/)
+- [The Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+- [Major League Hacking Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf)
+- [HackSmiths Code of Conduct](https://github.com/hacksmiths/code-of-conduct)
+- [Contributor Covenant v1.4](http://contributor-covenant.org/version/1/4/)
+- [Hack Code of Conduct](https://hackcodeofconduct.org/)
+- [Citizen Code of Conduct](http://citizencodeofconduct.org/)
