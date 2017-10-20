@@ -14,7 +14,7 @@ Respect that people have differences of opinion.
 
 Private harassment is also unacceptable. 
 
-No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the [active commitee members](https://github.com/orgs/HaCSBCU/teams/committee-2017).
+No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the [active commitee members](mailto:president@hacs.tech?Subject=Code%20Of%20Conduct ).
 
 
 ## Expected Behavior
