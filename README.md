@@ -1,6 +1,7 @@
 # DRAFT
 
 This document is not yet in effect, it must be voted in by commitee and is not finished
+This is awaiting voting in from committee.
 
 # Conduct
 
